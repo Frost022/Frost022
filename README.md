@@ -4,7 +4,7 @@ Atualmente estou programando em HTML, CSS, JS, Python e React<br>
 Almejo me tornar um programador FullStack</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frost022&show_icons=true&theme=dracula)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frost022&layout=compact)
 
 ## Tecnologias que tem feito parte do meu dia a dia
